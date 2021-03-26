@@ -15,6 +15,7 @@ I had wrote down my articles in Medium about Prolog which help people learn Prol
 - [[Prolog] List in Prolog](https://medium.com/neverrest/prolog-list-in-prolog-dbca1d203f73) - List, SWISH web application
 
 ## Problem solved by Prolog
+These are all practical examples of problems that can be solved by Prolog.
 - general problem in programming languages (find the element in list, reveres a list)
 - arithmetic - a list of prime numbers
 - five house problem
