@@ -28,3 +28,7 @@ These are all practical examples of problems that can be solved by Prolog.
 - syntax checker
 - sudoku
 - crossword puzzle
+
+## Reference
+- [five houses problem](https://baptiste-wicht.com/posts/2010/09/solve-einsteins-riddle-using-prolog.html)
+- [Learn Prolog from YouTube](https://www.youtube.com/watch?v=4vv3EOjtpHo&list=PLEJXowNB4kPy3_qhGksOO8ch_Di7T8_9E)
