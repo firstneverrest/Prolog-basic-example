@@ -18,7 +18,7 @@ I had wrote down my articles in Medium about Prolog which help people learn Prol
 These are all practical examples of problems that can be solved by Prolog.
 - general problem in programming languages (find the element in list, reveres a list)
 - arithmetic - a list of prime numbers
-- five house problem
+- five houses problem
 - gray code
 - huffman code
 - tree
