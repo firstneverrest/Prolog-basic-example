@@ -6,7 +6,7 @@ likes(amelia, william).
 likes(james, amelia).
 likes(james, julia).
 likes('_he', '64').
-likes('64', '_he').
+likes('_he', '64').
 hates(james, david).
 hates(amelia, david).
 hates(jin, amelia).
